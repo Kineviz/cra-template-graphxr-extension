@@ -1,0 +1,21 @@
+{
+  "name": "cra-template-graphxr-extension",
+  "version": "1.0.1",
+  "license": "MIT",
+  "scripts": {
+    "release": "npm publish --registry=https://registry.npmjs.org  --access public"
+  },
+  "files": [
+    "template", 
+    "template.json"
+  ],
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kineviz/cra-template-graphxr-extension",
+    "directory": "/"
+  },
+  "bugs": {
+    "url": "https://github.com/Kineviz/cra-template-graphxr-extension/issues"
+  }
+}
