@@ -1,6 +1,6 @@
 {
   "name": "cra-template-graphxr-extension",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "scripts": {
     "release": "npm publish --registry=https://registry.npmjs.org  --access public"
