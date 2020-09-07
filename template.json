@@ -61,7 +61,7 @@
                 "es6": true
             },
             "rules": {
-                "no-unused-vars": 2,
+                "no-unused-vars": 1,
                 "no-useless-escape": 0,
                 "no-extra-semi": 1,
                 "no-var": 2,

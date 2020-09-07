@@ -10,3 +10,4 @@ type callbackType = (err: Error | null, content: any, message?: string | null | 
 interface window {
   _debug: boolean;
 }
+
