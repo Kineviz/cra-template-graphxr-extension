@@ -1,9 +1,11 @@
 {
-    "compilerOptions": {
-      "target": "es2019",
-      "allowSyntheticDefaultImports": true,
-      "checkJs":true,
-      "strict": true
-    },
-    "exclude": ["build", "dist","public"]
-  }
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "target": "es2019",
+    "allowSyntheticDefaultImports": true,
+    "checkJs":true,
+    "strict": true,
+    "jsx": "react"
+  },
+  "exclude": ["build", "dist","public"]
+}
