@@ -3,7 +3,7 @@
 
 ```
 
-npx create-react-app your-project-name --template graphxr-extension
+npx create-react-app --template graphxr-extension YOUR-PROJECT—NAME
 
 ```
 
@@ -11,6 +11,6 @@ Or
 
 ```
 
-yarn create react-app your-project-name --template graphxr-extension
+yarn create react-app --template graphxr-extension  YOUR-PROJECT—NAME
 
 ```
